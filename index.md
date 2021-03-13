@@ -2,5 +2,4 @@
 layout: default
 ---
 
-# Here you can find nothing
-yet ;-;
+Here you can find nothing... yet ;-;
