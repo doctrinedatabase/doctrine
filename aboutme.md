@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About Me
-description: learn more about me not stalking!
+description: learn more about me by not stalking!
 ---
 
 # Info
