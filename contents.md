@@ -9,3 +9,5 @@ description: Contents of this website
 [Homepage](./)
 
 [About Me](/aboutme)
+
+[Projects](/projects)
