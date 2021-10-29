@@ -28,11 +28,10 @@ Van Gogh, Gaugin, Picasso, Millet, and alot more. Usually the early ones.
 
 ## Religion
 ### [Agora](https://discord.gg/vpquegxZJQ) Join this server, here, we talk about religion.
-I am a Christian though
 
 ## Coding
-### I stopped coding though
-But here's the one I used to code before: Python
+### Python
+note: I do not code anymore :(
 
 # Extra Stuff
 You might've noticed the purple-scarlet background on top.
