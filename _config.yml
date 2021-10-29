@@ -6,6 +6,6 @@ color:
   header: "#000"
   gradient_left: "#f9cb85"
   gradient_right: "#e99c57"
-logo_url: https://kjvram.github.io/assets/img/ramwithcross.png
+logo_url: 
 gems:
 - jekyll-seo-tag
