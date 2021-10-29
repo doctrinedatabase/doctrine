@@ -5,7 +5,7 @@ darkmode: true
 color:
   header: "#000"
   gradient_left: "#ff2400"
-  gradient_right: "#cc8899"
+  gradient_right: "#a020f0"
 logo_url: 
 gems:
 - jekyll-seo-tag
