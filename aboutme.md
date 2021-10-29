@@ -6,8 +6,11 @@ description: cool stuff about me
 
 # Jump To:
 [Info](#Info)
+
 [Stuff I do](#stuff-i-do)
+
 [Stuff I Like](#stuff-i-like)
+
 [Extra Stuff](#extra-stuff)
 
 # Info
