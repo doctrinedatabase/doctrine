@@ -1,29 +1,34 @@
 ---
 layout: default
 title: About Me
-description: learn more about me by not stalking!
+description: cool stuff about me
 ---
 
 # Info
-Hi! I am AirSupplier, usually called Ram.
-I am a musician. developer, artist, Christian from the Philippines.
-I like 50s - now music.
+Hi! I am Ram.
+Musician, Developer, Theology addict dude from the Philippines.
 
 # Stuff I do
 I code.
 I play guitar, piano, bass, ukulele, and a few others.
 I draw sometimes.
-I use discord everyday.
+I use discord most of the time.
 I help out people (not all the time, as I also need help)
 
 # Stuff I Like
-## In music
-### Bands
-I Like Queen, Bee Gees, The Carpenters, Air Supply, Bon Jovi, REO Speedwagon, Journey, Foreigner, The Police, The Bangles, Heart, A-ha, Black Sabbath, Stryper, Led Zeppelin, the Beatles, and alot more, I know I said alot, but I have alot more lmfao.
-My most favorite is Queen though.
-### Singers
-Probably the singers in these bands! But not all.
-### Guitars
-Parker Fly, Eric Johnson Thinline Stratocaster, and my Yamaha RGX 121d
-### Musicians??
-Brian May, Eric Johnson, Steve Vai, Freddie Mercury, John Deacon, Davide Biale, ME!
+## Music
+### Song Dudes and Dudettes
+
+Alot, Usually 50s-90s bands or singers.
+(Also big fan of classical music)
+
+## Art
+### Artists
+Van Gogh, Gaugin, Picasso, Millet, and alot more. Usually the early ones.
+
+## Religion
+### [Agora](https://discord.gg/vpquegxZJQ) Join this server, here, we talk about religion.
+
+## Coding
+### I stopped coding though
+But here's the one I used to code before: Python
