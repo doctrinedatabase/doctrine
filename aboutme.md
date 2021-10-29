@@ -36,7 +36,7 @@ Alot, Usually 50s-90s bands or singers.
 Van Gogh, Gaugin, Picasso, Millet, and alot more. Usually the early ones.
 
 ## Religion
-### [Agora](https://discord.gg/vpquegxZJQ) Join this server, here, we talk about religion.
+### Join [Agora](https://discord.gg/vpquegxZJQ), here we talk about religion. 
 
 ## Coding
 ### Python
