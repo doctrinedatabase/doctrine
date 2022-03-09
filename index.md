@@ -6,4 +6,4 @@ layout: default
 
 # Doctrine List:
 
-##### [Eternal Security of the Believer](/osas)
+##### [Eternal Security of the Believer](/doctrine/osas)
