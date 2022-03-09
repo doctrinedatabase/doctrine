@@ -1,7 +1,9 @@
 ---
+title: Doctrine Databse
 layout: default
 ---
 
 
-Doctrine List:
-[Eternal Security of the Believer](/osas)
+# Doctrine List:
+
+##### [Eternal Security of the Believer](/osas)
