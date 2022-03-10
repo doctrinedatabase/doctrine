@@ -1,12 +1,10 @@
 ---
 title: 'Eternal Security of the Believer'
-
+description: This doctrine teaches that once someone believes the Gospel and gets saved they can't lose their salvation. They are eternally secure. 		
 layout: default
 ---
 
 # Once Saved, Always Saved
-This doctrine teaches that once someone believes the Gospel and gets saved they can't lose their salvation. They are eternally secure. 		
-
 41+ Verses / Passages
 
 ### Psalm 89:30-33	
