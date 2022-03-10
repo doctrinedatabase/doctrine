@@ -56,3 +56,11 @@ For a believer to lose their salvation without contradicting when Hebrews 13:5 s
 ```In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ:  Who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power;```
 
 Appoint means to commit or assign. God has committed and assigned salvation to those who are saved. And God has not committed and assigned wrath to those who are saved. John 3:36 divides people into two groups. Those who are saved and have life. And those who aren't saved and have the wrath of God upon them. If someone could lose salvation they would then be under God's wrath. This would contradict 1 Thess. 5:9 because God has not committed or assigned wrath to us. But He has instead committed and assigned salvation to us.
+
+## Revelation 2:11, 3:5, 1 John 5:4-5
+```He that hath an ear, let him hear what the Spirit saith unto the churches; He that overcometh shall not be hurt of the second death. ```
+```He that overcometh, the same shall be clothed in white raiment; and I will not blot out his name out of the book of life, but I will confess his name before my Father, and before his angels Revelation 20:14 14 And death and hell were cast into the lake of fire. This is the second death.```
+```For whatsoever is born of God overcometh the world: and this is the victory that overcometh the world, even our faith. 5 Who is he that overcometh the world, but he that believeth that Jesus is the Son of God?```
+
+Believing the gospel is overcoming the world. Anyone who has believed the gospel won't have their name blotted out. And they won't go to hell. The only condition given to not having your name blotted out is if you believed the gospel. No mortal sins are listed as conditions that would cause a believer's name to be blotted out due to loss of salvation. Nobody who has overcome by believing the gospel can go to hell.
+
