@@ -4,6 +4,6 @@ layout: default
 ---
 
 
-# Things
+# Contents
 
-##### [Why KJV?](/why-kjv)
+##### [Why KJV?](/kjv-only/why-kjv)
