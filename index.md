@@ -1,9 +1,9 @@
 ---
-title: Doctrine Databse
+title: KJV Only
 layout: default
 ---
 
 
-# Doctrine List:
+# Things
 
-##### [Eternal Security of the Believer](/doctrine/doctrines/osas)
+##### [Why KJV?](/why-kjv)
