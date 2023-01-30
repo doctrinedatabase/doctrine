@@ -3,7 +3,7 @@ description:  List of doctrines
 remote_theme: tuur29/pages-themes-cayman
 darkmode: true
 color:
-  header: "#fff"
+  header: "#000"
   gradient_left: "#3a91ff"
   gradient_right: "#3ad4ff"
 logo_url: 
