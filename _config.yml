@@ -4,8 +4,8 @@ remote_theme: tuur29/pages-themes-cayman
 darkmode: true
 color:
   header: "#000"
-  gradient_left: "#3a91ff"
-  gradient_right: "#3ad4ff"
+  gradient_left: "#ff5a00"
+  gradient_right: "#ffff00"
 logo_url: 
 gems:
 - jekyll-seo-tag
