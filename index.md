@@ -1,11 +1,12 @@
 ---
-title: KJV Only
+title: Doctrine Database
 layout: default
 ---
 
 # Database Table of Contents: 				
 			
-(Some Sections might be listed here but empty on their respective sheet. This just means it's on the agenda to be covered in the near future.)			
+(Some Sections might be listed here but empty on their respective sheet. This just means it's on the agenda to be covered in the near future.)	
+
 ## Soteriology Doctrines Sheet
 * Section 1. Eternal Security of the Believer			
 * Section 2. Conditional Security / Spiritual Abortionism			
