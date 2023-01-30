@@ -10,7 +10,7 @@ layout: default
 ## Soteriology Doctrines Sheet
 * Section 1. Eternal Security of the Believer			
 * Section 2. Conditional Security / Spiritual Abortionism			
-* Section 3. Salvation by Faith Alone 			
+* [Section 3. Salvation by Faith Alone](/doctrines/soteriology/faithalone)		
 * Section 4. Salvation by Faith + Works 			
 			
 ## Ceremonial / Sacramental Doctrines Sheet
