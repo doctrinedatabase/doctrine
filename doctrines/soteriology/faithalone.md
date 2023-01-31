@@ -60,7 +60,7 @@ _(Faith Alone yields everlasting life. Faith Alone is what causes someone to pas
 ## Acts 10:43 - Authorized (King James) Version (AKJV)
 <43> To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins.	
 
-_(Remission of sins is attained by faith alone on Jesus Christ.) _
+_(Remission of sins is attained by faith alone on Jesus Christ.)_
 
 ## Habakkuk 2:4 - Authorized (King James) Version (AKJV)
 <4> Behold, his soul which is lifted up is not upright in him: but the just shall live by his faith.	
@@ -105,17 +105,17 @@ _(Believing on the Lord Jesus Christ brings life.)_
 ## Romans 1:16-17 - Authorized (King James) Version (AKJV)
 <16> For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek. <17> For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith.		
 
-_(The gospel is the power of God unto salvation. 		
-believe on Jesus Christ. And the just live by faith.)	_	
+_(The gospel is the power of God unto salvation. believe on Jesus Christ. And the just live by faith.)_	
 		
 ## 1 Corinthians 1:21 - Authorized (King James) Version (AKJV)
 <21> For after that in the wisdom of God the world by wisdom knew not God, it pleased God by the foolishness of preaching to save them that believe.
 
-_(We are saved through our belief.)	_	
+_(We are saved through our belief.)_	
 		
 ## Romans 11:6 - Authorized (King James) Version (AKJV)
-<6> And if by grace, then is it no more of works: otherwise grace is no more grace. But if it be of works, then is it no more grace: otherwise work is no more work.		
- _(You can’t have salvation by grace and by works. It’s either all by grace or all by works. To say that salvation is by faith and works contradict this. It’s one or the other.) _
+<6> And if by grace, then is it no more of works: otherwise grace is no more grace. But if it be of works, then is it no more grace: otherwise work is no more work.
+
+ _(You can’t have salvation by grace and by works. It’s either all by grace or all by works. To say that salvation is by faith and works contradict this. It’s one or the other.)_
 
 ## Romans 3:20-22 - Authorized (King James) Version (AKJV)
 <20> Therefore by the deeds of the law there shall no flesh be justified in his sight: for by the law is the knowledge of sin. <21> But now the righteousness of God without the law is manifested, being witnessed by the law and the prophets; <22> even the righteousness of God which is by faith of Jesus Christ unto all and upon all them that believe: for there is no difference:
@@ -208,12 +208,12 @@ _(The condition for having the Lord be your buckler that is your shield, protect
 ## Acts 19:4 - Authorized (King James) Version (AKJV)
 <4> Then said Paul, John verily baptized with the baptism of repentance, saying unto the people, that they should believe on him which should come after him, that is, on Christ Jesus.
 	
-_(The gospel John the Baptist was preaching was that the people should believe on Christ Jesus for salvation.) _
+_(The gospel John the Baptist was preaching was that the people should believe on Christ Jesus for salvation.)_
 		
 ## Hebrews 11:7 - Authorized (King James) Version (AKJV)
 <7> By faith Noah, being warned of God of things not seen as yet, moved with fear, prepared an ark to the saving of his house; by the which he condemned the world, and became heir of the righteousness which is by faith.	
 
-_(Righteousness is attained by faith.)	_	
+_(Righteousness is attained by faith.)_	
 		
 ## Romans 4:1-3 - Authorized (King James) Version (AKJV)
 <1> What shall we say then that Abraham our father, as pertaining to the flesh, hath found? <2> For if Abraham were justified by works, he hath whereof to glory; but not before God. <3> For what saith the scripture? Abraham believed God, and it was counted unto him for righteousness.	
@@ -276,7 +276,7 @@ _(Righteousness is attained by faith. Not our works.)_
 ## Acts 15:7-9 - Authorized (King James) Version (AKJV)
 <7> And when there had been much disputing, Peter rose up, and said unto them, Men and brethren, ye know how that a good while ago God made choice among us, that the Gentiles by my mouth should hear the word of the gospel, and believe. <8> And God, which knoweth the hearts, bare them witness, giving them the Holy Ghost, even as he did unto us; <9> and put no difference between us and them, purifying their hearts by faith.	
 
-_(Faith is what purifies our hearts.)	_	
+_(Faith is what purifies our hearts.)_	
 		
 ## Romans 5:15-18 - Authorized (King James) Version (AKJV)
 <15> But not as the offence, so also is the free gift. For if through the offence of one many be dead, much more the grace of God, and the gift by grace, which is by one man, Jesus Christ, hath abounded unto many. <16> And not as it was by one that sinned, so is the gift: for the judgment was by one to condemnation, but the free gift is of many offences unto justification. <17> For if by one man's offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.) <18> Therefore as by the offence of one judgment came upon all men to condemnation; even so by the righteousness of one the free gift came upon all men unto justification of life.
