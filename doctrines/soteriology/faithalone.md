@@ -23,10 +23,6 @@ _(Believing on the Lord Jesus Christ makes someone become born of God. Faith alo
 ### + John 6:40 - Authorized (King James) Version (AKJV)
 <40> And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day.
 
-_(The same will of God in John 1:13)_ 
-### + John 1:13 - Authorized (King James) Version (AKJV)
-<13> which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.
-
 ## John 3:36 - Authorized (King James) Version (AKJV)
 <36> He that believeth on the Son hath everlasting life: and he that believeth not the Son shall not see life; but the wrath of God abideth on him.
 
